@@ -1,6 +1,4 @@
-# workshop2024
+# workshop2024a
 FAECTOR workshop 2024
 
 Hello World
-
-Hello World 2
